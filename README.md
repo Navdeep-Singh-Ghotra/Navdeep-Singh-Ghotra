@@ -31,3 +31,11 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
+## This is something from the code for diagrams
+
+graph TD  
+  A[Terraform] --> B[EKS Cluster]  
+  B --> C[Node Groups]  
+  B --> D[ALB Ingress]  
