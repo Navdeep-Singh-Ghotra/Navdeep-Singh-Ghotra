@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm [Your Name] | DevOps Engineer
+# 👋 Hi, I'm Navdeep Singh Ghotra | DevOps Engineer
 
 🔧 **Tech Stack**:  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
 📝 **Blog**: [dev.to/your-blog](https://dev.to/your-blog)  
-💼 **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+💼 **LinkedIn**: [linkedin.com/in/nsghotra](https://linkedin.com/in/nsghotra)  
 
 ## 🚀 My Projects
 - [Terraform AWS EKS Cluster](https://github.com/your-repo/terraform-eks)  
 - [GitHub Actions CI/CD Pipeline](https://github.com/your-repo/github-actions-demo)  
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsghotra&show_icons=true&theme=radical)
 
 
 ## This is something from the code for diagrams
