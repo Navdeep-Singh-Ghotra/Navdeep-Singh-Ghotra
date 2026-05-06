@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - [GitHub Actions CI/CD Pipeline](https://github.com/your-repo/github-actions-demo)  
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsghotra&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=navdeep-singh-ghotra&show_icons=true&theme=radical)
 
 
 ## This is something from the code for diagrams
