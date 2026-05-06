@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 ## This is something from the code for diagrams
 
 graph TD  
-  A[Terraform] --> B[EKS Cluster]  
+  A   [Terraform] --> B[EKS Cluster]  
   B --> C[Node Groups]  
   B --> D[ALB Ingress]  
