@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 💼 **LinkedIn**: [linkedin.com/in/nsghotra](https://linkedin.com/in/nsghotra)  
 
 ## 🚀 My Projects
-- [Terraform AWS EKS Cluster](https://github.com/your-repo/terraform-eks)  
+- [Certified kubernetes administrator](https://github.com/Navdeep-Singh-Ghotra/cka.git)  
 - [GitHub Actions CI/CD Pipeline](https://github.com/your-repo/github-actions-demo)  
 
 ## 📊 GitHub Stats  
