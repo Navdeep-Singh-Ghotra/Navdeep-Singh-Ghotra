@@ -1,6 +1,15 @@
 [
   
   {
+    "title": "Container orchestration",
+    "url": "/posts/Container-orchestration/",
+    "categories": "Containers, Docker",
+    "tags": "kuberenets",
+    "date": "2026-10-31 15:47:10 -0400",
+    "content": "description: Why cntainer orchestration. —  Blank image      inline code part — This is a plaintext code snippet. key: value   {% if product.title contains 'Pack' %}   This product's title contains the word Pack. {% endif %}     mermaid: true —"
+  },
+  
+  {
     "title": "Customize the Favicon",
     "url": "/posts/customize-the-favicon/",
     "categories": "Blogging, Tutorial",
