@@ -1,41 +1,77 @@
-## Hi there 👋
+<!-- markdownlint-disable-next-line -->
+<div align="center">
 
-<!--
-**Navdeep-Singh-Ghotra/Navdeep-Singh-Ghotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- markdownlint-disable-next-line -->
+  # Chirpy Jekyll Theme
 
-Here are some ideas to get you started:
+  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 
-- 🔭 I’m currently working on devops
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm Navdeep Singh Ghotra | DevOps Engineer
+  [![CI][badge-ci]][ci]&nbsp;
+  [![Codacy Badge][badge-codacy]][codacy]&nbsp;
+  [![GitHub license][badge-license]][license]&nbsp;
+  [![Gem Version][badge-gem]][gem]&nbsp;
+  [![Open in Dev Containers][badge-open-container]][open-container]
 
-🔧 **Tech Stack**:  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+  [**Live Demo** →][demo]
 
-📝 **Blog**: [dev.to/your-blog](https://dev.to/your-blog)  
-💼 **LinkedIn**: [linkedin.com/in/nsghotra](https://linkedin.com/in/nsghotra)  
+  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
 
-## 🚀 My Projects
-- [Certified kubernetes administrator](https://github.com/Navdeep-Singh-Ghotra/cka.git)  
-- [GitHub Actions CI/CD Pipeline](https://github.com/your-repo/github-actions-demo)  
+</div>
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=navdeep-singh-ghotra&show_icons=true&theme=radical)
+## Features
 
+- **Design & UX** - Responsive layout, Dark/Light modes, Localized UI language,
+  and Dark mode images.
+- **Content Management** - Pinned posts, Hierarchical categories, Trending tags,
+  Auto-generated Table of Contents, and Last modified dates.
+- **Rich Text Support** - Syntax highlighting, Mathematical expressions, Mermaid
+  diagrams & flowcharts, and Embedded media.
+- **Interactivity & Outreach** - Built-in search, Multiple comment systems, and
+  Atom feeds.
+- **System & Optimization** - PWA support, integrated Web analytics, and
+  advanced SEO performance.
 
-## This is something from the code for diagrams
+## Documentation
 
-graph TD  
-  A   [Terraform] --> B[EKS Cluster]  
-  B --> C[Node Groups]  
-  B --> D[ALB Ingress]  
+To learn how to use, develop, and upgrade the project, please refer to the
+[Wiki][wiki].
+
+## Contributing
+
+Contributions (_pull requests_, _issues_, and _discussions_) are what make the
+open-source community such an amazing place to learn, inspire, and create. Any
+contributions you make are greatly appreciated.
+For details, please refer to our [Contributing Guidelines][contribute-guide].
+
+## Credits
+
+This project is built on the [Jekyll][jekyllrb] ecosystem and integrates a
+collection of [excellent libraries][lib]. Its avatar and favicon are sourced
+from [ClipartMAX][clipartmax].
+
+Furthermore, thanks to everyone who contributed to the development of this project!
+
+[![all-contributors][contributors-avatar]][contributors]
+
+## License
+
+This project is licensed under the [MIT License][license].
+
+[badge-ci]: https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github
+[badge-codacy]: https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy
+[badge-license]: https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy?color=goldenrod
+[badge-gem]: https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=orange
+[badge-open-container]: https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers
+[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
+[ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
+[codacy]: https://app.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
+[license]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
+[open-container]: https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/cotes2020/jekyll-theme-chirpy
+[jekyllrb]: https://jekyllrb.com/
+[clipartmax]: https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/
+[demo]: https://cotes2020.github.io/chirpy-demo/
+[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
+[contribute-guide]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md
+[contributors]: https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors
+[contributors-avatar]: https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16&max=112
+[lib]: https://github.com/cotes2020/chirpy-static-assets
