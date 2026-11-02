@@ -2,7 +2,7 @@
 title: Container orchestration
 date: 2026-10-31 15:47:10 +/-TTTT
 categories: [Containers, Docker]
-tags: [kuberenets]     # TAG names should always be lowercase
+tags: [kuberenets, docker]     # TAG names should always be lowercase
 ---
 ---
 description: Why cntainer orchestration.
